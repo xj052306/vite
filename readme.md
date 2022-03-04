@@ -14,8 +14,8 @@
 13，上传本地仓库 git push -u origin main
 14，查看远程库信息  git remote -v
 15，删除已关联的远程库 git remote rm origin
-16，关联远程库 git remote add github git@github.com:xj052306/learn.git
-	              git remote add gitee git@gitee.com:wanfusi/learn.git
+16，关联远程库 git remote add github https://github.com/xj052306/vite.git
+	              git remote add gitee https://gitee.com/wanfusi/vite.git
 =================================================================
 git -help -a 所有命令详解
 	git add  添加文件到仓库索引
